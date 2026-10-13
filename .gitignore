@@ -1,0 +1,25 @@
+# Godot 4 生成的缓存与导入产物（各人本地重新生成即可）
+.godot/
+*.translation
+
+# 编辑器日志与临时标记（本项目插件会写这些）
+.editor_notes.log
+.editor_playtest.json
+*.log
+
+# 备份与快照
+*.bak
+*.tmp
+*~
+
+# 导出产物
+build/
+export/
+*.exe
+*.pck
+*.zip
+
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
